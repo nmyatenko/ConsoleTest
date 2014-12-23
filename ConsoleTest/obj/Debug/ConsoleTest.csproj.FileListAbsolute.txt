@@ -1,0 +1,6 @@
+E:\GitHub\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+E:\GitHub\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+E:\GitHub\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+E:\GitHub\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+E:\GitHub\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+E:\GitHub\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb
